@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on any open-source applications that has <ins>**JavaScript**</ins> in it 🥰
 
+-    💁‍♂️ I want to help developers starting with JavaScript, React.js, React Native, GraphQL or anything related to them. I can review your code, guide you, help you write better code. 
+
 - 🤔 I’m looking for help with writing custom React _Hooks_ and _CSS_ animations
 
 - 💬 Ask me about React.js, React Native, JavaScript, VSCode, Theme, [hyper.js](https://hyper.is/) (customizations, etc...), oh-my-zsh, Songs, Football (American Soccer), and Android.
