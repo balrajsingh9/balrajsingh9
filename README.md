@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on _React.js_ and _React Native_ applications powered by _GraphQL_. I also partially work on creation of REST APIs using Spring Boot 😄
 
-- 🌱 I’m currently learning (and trying to create) architectures of gigantic applications like Twitter, Uber, Amazon, etc., CSS (it never ends), Next.js, and a little bit of Math for programming 😅😅
+- 🌱 I’m currently learning CSS (it never ends), Next.js, and a little bit of Math for programming 😅😅
 
 - 👯 I’m looking to collaborate on any open-source applications that has <ins>**JavaScript**</ins> in it 🥰
 
