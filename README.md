@@ -10,9 +10,8 @@
 
 - 🤔 I’m looking for help with writing custom React _Hooks_ and _CSS_ animations
 
-- 💬 Ask me about React.js, React Native, JavaScript, VSCode, Theme, [hyper.js](https://hyper.is/) (customizations, etc...), oh-my-zsh, Songs, Football (American Soccer), and Android.
+- 💬 Ask me about React.js, React Native, JavaScript, VSCode, Themes, Dark Mode, [hyper.js](https://hyper.is/) (customizations, etc...), oh-my-zsh, Songs, Football (American Soccer), and Android.
 
-- 📫 Reach me 👉 <a href="https://twitter.com/balraj_99"><img src="https://img.icons8.com/color/40/000000/twitter.png"></a>
 <!--
 **balrajsingh9/balrajsingh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
